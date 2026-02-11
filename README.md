@@ -2,7 +2,7 @@
 
 A native, lightweight macOS application for extracting RAR archives. Built with Swift and SwiftUI.
 
-![RarExtractor Icon](AppIcon.iconset/icon_128x128.png)
+![RarExtractor Icon](assets/icon.png)
 
 ## Features
 
